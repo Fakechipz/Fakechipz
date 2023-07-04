@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt="Animated Banner" width="100%">
+  <img src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==" alt="Animated Banner" width="100%">
 </p>
 
 
 
-<h1 align="center">Hi 👋, I'm Avdhesh Kumar Sharma</h1>
-<h3 align="center">Empowering Communication: Harnessing Machine Learning for Sign Language Detection</h3>
+<h1 align="center">Hi 👋, I'm Praveen Kumar Sharma</h1>
+<h3 align="center"> </h3>
 
 
 
